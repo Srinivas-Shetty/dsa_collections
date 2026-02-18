@@ -1,0 +1,5 @@
+// LeetCode 1004 - Max Consecutive Ones III
+// Sample Input: nums=[1,1,1,0,0,0,1,1,1,1,0], k=2
+// Sample Output: 6
+
+// TODO: Implement solution here
