@@ -1,5 +1,5 @@
 // LeetCode 21 - Merge Two Sorted Lists
-// Sample Input: [1,2,4],[1,3,4,5]
+// Sample Input: [1,2,4],[1,3,4,5,7]
 // Sample Output: merged
 
 // TODO: Implement solution here
